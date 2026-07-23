@@ -1,0 +1,20 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 5px;
+}
